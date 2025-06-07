@@ -1,0 +1,23 @@
+{
+  "name": "vue3-basic-site",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^11.9.0",
+    "vue": "^3.3.4",
+    "vue-router": "^4.5.1",
+    "browser-image-compression": "^2.0.2",
+    "vue-virtual-scroller": "^2.0.0-beta.8",
+    "vue-lazyload": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "terser": "^5.41.0",
+    "vite": "^4.4.5"
+  }
+}
